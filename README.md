@@ -1,6 +1,6 @@
-# vmem-cinder-juno-fc
-Violin memory Fiber channel driver for juno
-cinder-violin-driver-juno
+# vmem-cinder-kilo-fc
+Violin memory Fiber channel driver for kilo
+cinder-violin-driver-kilo
 Openstack Cinder FC driver for the violin 7300 FSP platform cinder-violin-driver-icehouse *** WARNING: Alpha release. Use at your own risk! ***
 
 7000 Series All-Flash Array Volume Driver V4.0.0 for OpenStack Cinder Kilo Release.
